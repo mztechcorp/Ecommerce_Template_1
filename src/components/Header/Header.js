@@ -13,6 +13,7 @@ function Header() {
         <input className="header_searchInput" type="text" />
         <SearchIcon className="header_searchIcon" />
         {/* Logo */}
+        {/* test */}
       </div>
       <div className="header_nav">
         <div className="header_option">
