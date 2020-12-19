@@ -25,7 +25,7 @@ function Home() {
             title="The Ontario"
             price={29.99}
             image={Product1}
-            rating={5}
+            rating={4}
           />
 
           {/* Product */}
@@ -37,7 +37,7 @@ function Home() {
             title="HOME COLLECTION | HOME COLLECTION SUPER SOFT DOUBLE BRUSHED MICROFIBER 1800 SERIES BED SET  WRINKLE FREE, HYPOALLERGENIC, DEEP POCKET SHEETS, BEDDING, SHEET SET, TWIN, FULL, QUEEN, KING"
             price={59.99}
             image={Product2}
-            rating={5}
+            rating={3}
           />
           <Product
             title="The Berry| Gorgeous faux fur surrounds the hood on this cozy puffer coat, a compliment-worthy pick designed with a stand collar.
@@ -45,7 +45,7 @@ function Home() {
             "
             price={19.99}
             image={Product3}
-            rating={5}
+            rating={2}
           />
           <Product
             title="THE CHIFFON | The Chiffon long sleeve Shirt. Top NEW! HOT! You can wear it one shoulder style, very soft, comfy material. 
@@ -65,7 +65,7 @@ function Home() {
             title="The Ontario"
             price={29.99}
             image={Product5}
-            rating={5}
+            rating={4}
           />
           <Product
             title="The Ontario"
@@ -77,7 +77,7 @@ function Home() {
             title="The Ontario"
             price={29.99}
             image={Product1}
-            rating={5}
+            rating={3}
           />
           <Product
             title="The Ontario"
