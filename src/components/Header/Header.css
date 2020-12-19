@@ -47,6 +47,11 @@
   align-items: center;
   color: white;
 }
+
+.header_cartCount {
+  margin-left: 10px;
+  margin-right: 10px;
+}
 .header_nav {
   display: flex;
   justify-content: space-evenly;
