@@ -10,6 +10,8 @@
   background-color: white;
   z-index: 1;
   margin-top: 100px;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 .product > img {
@@ -32,4 +34,8 @@
   margin-top: 10px;
   border-color: #a88734 #9c7e31 #846a29;
   color: #111;
+}
+
+.product_rating {
+  display: flex;
 }
